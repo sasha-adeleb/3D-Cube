@@ -75,7 +75,7 @@ box-one,
 
 .box-one::before,
 .box-one::after {
-  background-image: url("/assets/jpg/1.JPG");
+  background-image: url("##");
   -webkit-background-size: cover;
   background-size: cover;
   background-position: center center;
